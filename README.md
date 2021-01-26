@@ -1,4 +1,4 @@
-## iTunes Top 100 challenge
+## iTunes Top 100 albums challenge
 
 ### Description
 
@@ -10,7 +10,7 @@ This is a website that shows the top 100 songs based on the json feed [here](htt
 ### Running it
 - Clone the repo.
 
-- run `npx degit git link myapp` in your desired folder
+- run `npx degit https://github.com/marnjo/intermediate.git myapp` in your desired folder
 
 - run  `npm  install`
 
